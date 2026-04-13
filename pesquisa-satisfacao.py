@@ -7,7 +7,7 @@ quantidade_bom = 0
 quantidade_ruim = 0
 
 # Número de entrevistados
-numero_entrevistados = 10 # Ajustado para a fase de testes
+numero_entrevistados = 50 # Ajustado para a versão final
 
 for i in range(numero_entrevistados):
     print(f"\n--- 👤 Entrevistado {i + 1} ---")
